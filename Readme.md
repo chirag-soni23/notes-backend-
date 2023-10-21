@@ -72,3 +72,9 @@ Ans. ```MongoDB is built on a scale-out architecture that has become popular wit
 
 20. What is difference between SQL and Mongodb ?
 Ans. ```SQL databases are used to store structured data while NoSQL databases like MongoDB are used to save unstructured data.```
+
+21. What is Schema ?
+Ans. ```A schema is a JSON object that defines the structure and contents of your data.```
+
+22. What is Buffer ?
+Ans. ``Buffers only deal with binary data, and it can not be resizable.``
